@@ -1,0 +1,72 @@
+body {
+    background-color:lightgray;
+}
+
+p {
+    font: Arial;
+    font-size: 15px;
+    line-height: 2;
+}
+
+.figure-caption {
+    font: Arial;
+    font-size: 15px;
+    line-height: 2;
+}
+
+img {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+h1 {
+    color: rgb(7, 172, 166);
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+}
+
+h3 {
+    color: rgb(7, 172, 166);
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+}
+
+.container-fluid {
+    padding-right: 140px;
+    padding-left: 140px;
+    padding-top: 70px;
+}
+
+.col-md-7 {
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+} 
+
+.col-md-4 {
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+} 
+
+nav {
+    background-color: white;
+}
+
+.navbar-brand {
+    font-family: "Times New Roman", serif;
+    background-color: rgb(7, 172, 166);
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white !important;    
+}
+
+.navbar-nav > li{
+    padding-right: 10px;
+    padding-left: 10px;
+}
